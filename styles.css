@@ -1,0 +1,98 @@
+body{   /*this body section will add styles to the whole page*/
+    background-color: black; /*This changes the background colour*/
+    text-align: center; /*This piece of code makes all content center in to the middle*/
+    
+} 
+
+
+
+.top{
+    background-color: red;
+    height: 100px;
+    width: 100%;
+
+}
+
+.l{
+    background-color:green;
+    height: 150px;
+    width: 40%;
+    float: left;
+    font-size: 25px;
+}
+
+
+.r{
+    background-color: rgb(221, 161, 210);
+    height: 150px;
+    width: 40%;
+    float: right;
+    font-size: 25px;
+}
+
+
+.header{
+    background-color: crimson;
+    width: 100%;
+    height: 300px;
+    font-size: 50px;
+
+
+
+
+}
+
+
+
+
+.small{
+    background-color: green;
+    width: 50%;
+    height: 300px;
+    float: left;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+
+
+
+}
+  
+
+
+
+
+
+
+
+
+
+
+
+
+.br{
+    background-color: blue;
+    width: 40%;
+    height: 300px;
+    float: right;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.bl{
+   background-color: darkgreen;
+   width: 40%;
+   height: 300px;
+   float: left;
+   font-size: 25px;
+
+
+}
+
+ul{
+    font-size: 25px;
+    text-align: left;
+
+
+}
