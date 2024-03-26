@@ -2,7 +2,7 @@ body{   /*this body section will add styles to the whole page*/
     background-color: black; /*This changes the background colour*/
     text-align: center; /*This piece of code makes all content center in to the middle*/
     
-} 
+}
 
 
 
@@ -48,7 +48,7 @@ body{   /*this body section will add styles to the whole page*/
 .small{
     background-color: green;
     width: 50%;
-    height: 300px;
+    height: 600px;
     float: left;
     font-size: 30px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -73,8 +73,10 @@ body{   /*this body section will add styles to the whole page*/
 .br{
     background-color: blue;
     width: 40%;
-    height: 300px;
-    float: right;
+    height: 500px;
+    float: left;
+
+    
     font-size: 25px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
@@ -83,9 +85,11 @@ body{   /*this body section will add styles to the whole page*/
 .bl{
    background-color: darkgreen;
    width: 40%;
-   height: 300px;
+   height: 500px;
    float: left;
    font-size: 25px;
+   margin-left: 20%;
+
 
 
 }
@@ -96,3 +100,53 @@ ul{
 
 
 }
+
+.smallright{
+    background-color: green;
+    width: 50%;
+    height: 600px;
+    float: left;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.bottommiddle{
+    background-color: red;
+    width: 100%;
+    height: 100px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: left;
+
+}
+
+
+.box1{
+    background-color: red;
+    width: 50%;
+    height: 200px;
+    float: left;
+
+}
+
+.TopBox{
+    background-color: red;
+    width: 100%;
+    height: 200px;
+
+    
+}
+
+
+
+
+
+.RightBox{
+    background-color: blue;
+    width: 25%;
+    height: 1000px;
+    float: center;
+
+}
+
